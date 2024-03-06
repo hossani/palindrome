@@ -1,0 +1,29 @@
+Remarque : 
+
+43234 L'inverse 43234 Donc le meme
+
+432234 L'inverse 432234  Donc le meme
+
+---------------------------------------------------
+
+432234%10 = 4
+reste = 4;
+Je dois stocker cette valeur 4 et au meme temps de trouver un moyen pour changer
+la position de ce chiffre pour rendre le nombre à la fin reversed number
+
+revN= 10*revN+ reste;   ( je declare initialement revN = 0 )
+
+432234/10 = 43223;
+
+ainsi de suite .......
+
+la condition finale pour stoper la boucle qui va me permet de faire 
+des calculs iteratives c'est le numero final doit etre different à zero
+pour eviter le prb des nombres negatives
+
+
+
+
+
+
+ 
